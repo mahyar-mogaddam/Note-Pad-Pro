@@ -1,0 +1,9 @@
+C:\Users\MAHYAR\Desktop\C#\عباس پور\notepad\notePad\notePad\bin\Debug\notePad.exe.config
+C:\Users\MAHYAR\Desktop\C#\عباس پور\notepad\notePad\notePad\bin\Debug\notePad.exe
+C:\Users\MAHYAR\Desktop\C#\عباس پور\notepad\notePad\notePad\bin\Debug\notePad.pdb
+C:\Users\MAHYAR\Desktop\C#\عباس پور\notepad\notePad\notePad\obj\Debug\notePad.csprojResolveAssemblyReference.cache
+C:\Users\MAHYAR\Desktop\C#\عباس پور\notepad\notePad\notePad\obj\Debug\notePad.frmmain.resources
+C:\Users\MAHYAR\Desktop\C#\عباس پور\notepad\notePad\notePad\obj\Debug\notePad.Properties.Resources.resources
+C:\Users\MAHYAR\Desktop\C#\عباس پور\notepad\notePad\notePad\obj\Debug\notePad.csproj.GenerateResource.Cache
+C:\Users\MAHYAR\Desktop\C#\عباس پور\notepad\notePad\notePad\obj\Debug\notePad.exe
+C:\Users\MAHYAR\Desktop\C#\عباس پور\notepad\notePad\notePad\obj\Debug\notePad.pdb
